@@ -1,0 +1,8 @@
+python : 
+Python 3.6.4 |Anaconda, Inc.| (default, Mar 12 2018, 20:20:50) 
+
+dataset : 
+B.7z, B1.7z, C.7z, C1.7z, GY.7z, GY1.7z, GY2.7z
+
+
+
